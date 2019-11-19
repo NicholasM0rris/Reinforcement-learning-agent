@@ -7,3 +7,10 @@ By implementing a reinforcement learning algorithm, the following pacman agent w
 
 
 ![](support/pacmangif.gif)
+
+
+
+
+
+Attribution to UC Berkeley
+# http://inst.eecs.berkeley.edu/~cs188/pacman/pacman.html
